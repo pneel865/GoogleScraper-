@@ -1,0 +1,43 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #F1D1D1;
+	font-family: 'Montserrat', sans-serif;
+}
+
+header{
+	padding-top: 26px;
+	background-color: #AE9965;
+	color: #600d0d;
+	min-height: 70px;
+}
+header h2{
+	text-align: center;
+	padding: 15px;
+}
+
+.tagline{
+	font-size: 25px;
+	color: #741313;
+
+	padding: 20px;
+}
+.search-box{
+	width: 50%;
+	
+    height: 35px;
+
+}
+.btn{
+	margin-top: 30px;
+}
+.dw-link{
+	padding: 30px;
+}
+.footer {
+   background-color: #AE9965;
+   color: #1a0505;
+   text-align: center;
+   height: 60px;
+   font-size: 21px;
+}
