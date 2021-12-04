@@ -7,6 +7,3 @@
 2. python run.py
 
 
-
-
-"# GoogleScraper" 
